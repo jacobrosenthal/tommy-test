@@ -1,0 +1,11 @@
+{
+  "name": "tommy-test",
+  "version": "0.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "ble": "^2.0.0"
+  },
+  "bin": "./source"
+}
